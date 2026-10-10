@@ -2,4 +2,4 @@ Hi, as the owner of Warp Projects, my projects are here. You can join our commun
 
 
 
-<img width="800" height="300" alt="warpprojects" src="https://github.com/user-attachments/assets/f921484a-d1d8-43df-a013-8810b60dd415" />
+<img width="800" height="800" alt="warpprojects" src="https://github.com/user-attachments/assets/f921484a-d1d8-43df-a013-8810b60dd415" />
